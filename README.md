@@ -15,6 +15,9 @@ https://github.com/czg1225/SlimSAM
 https://arxiv.org/abs/2312.05284
 
 ### 🖼 Output
+![truck1](https://github.com/camenduru/SlimSAM-colab/assets/54370274/53b4b2b8-f552-4019-b134-6e5be92a6333)
+![truck2](https://github.com/camenduru/SlimSAM-colab/assets/54370274/2202c973-9858-4111-9b08-87515315b330)
+![truck3](https://github.com/camenduru/SlimSAM-colab/assets/54370274/680788ed-ed9b-4b7f-a007-5179bf4ae3ae)
 
 ### 🏢 Sponsor
 https://modelslab.com
